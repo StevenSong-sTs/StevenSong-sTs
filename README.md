@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevensong-sts&label=Profile%20views&color=0e75b6&style=flat" alt="stevensong-sts" /> </p>
 
-- 🔭 I’m currently working on **Course Wise**
+- 🔭 I’m currently working on **A Personal Portfolio Site**
 
 - 🌱 I’m currently learning **Transformer, RAG, GAN**
 
