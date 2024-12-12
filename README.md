@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevensong-sts&label=Profile%20views&color=0e75b6&style=flat" alt="stevensong-sts" /> </p>
 
-- 🔭 I’m currently working on **A Personal Portfolio Site**
+- 🔭 I’m currently working on **Mechanics-AI**
 
 - 🌱 I’m currently learning **Transformer, RAG, GAN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StevenSong-sTs](https://github.com/StevenSong-sTs)
 
-- 💬 Ask me about **Full-Stack Development, Data Science**
+- 💬 Ask me about **Full-Stack Development, Data Analysis, Machine Learning**
 
 - 📫 How to reach me **stevensong0x7cc@gmail.com**
 
