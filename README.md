@@ -1,6 +1,6 @@
 ![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ3dGpiaGQ3NjA4MWExbmR1cGZoeHlhcXdxY2U1Y3MwNXM1eG1yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp)
 <h1 align="center">Hi 👋, This is Steven</h1>
-<h3 align="center">I am a software developer, data science graduate, as well as a lifelong learner, <br>thrives on extracting valuable insights from data and creating fun applications to solve problems.</h3>
+<h3 align="center">I am a software developer, data science practitioner, as well as a lifelong learner, <br>thrives on extracting valuable insights from data and creating fun applications to solve problems.</h3>
 <img align="right" alt="side gif" width=300  src="https://camo.githubusercontent.com/296084ab5cccc2509c01e4981f33da7668a10fa5d0004f1b71f016124439a375/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f35654c4472456152474865677832466546322f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevensong-sts&label=Profile%20views&color=0e75b6&style=flat" alt="stevensong-sts" /> </p>
