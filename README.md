@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently tweaking **foundation models** to build apps I want 
 
-- 🌱 I’m currently learning **Transformer, RAG, GAN**
+- 🌱 I’m currently learning **Transformer, RAG, Prompt Engineering, Fine-tuning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StevenSong-sTs](https://github.com/StevenSong-sTs)
 
-- 💬 Ask me about **Full-Stack Development, Data Analysis, Machine Learning**
+- 💬 Ask me about **Full-Stack Development, Data Analysis, Machine Learning, Gen AI**
 
 - 📫 How to reach me **stevensong0x7cc@gmail.com**
 
