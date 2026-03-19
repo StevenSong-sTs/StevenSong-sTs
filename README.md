@@ -1,31 +1,133 @@
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ3dGpiaGQ3NjA4MWExbmR1cGZoeHlhcXdxY2U1Y3MwNXM1eG1yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.webp)
-<h1 align="center">Hi 👋, This is Steven</h1>
-<h3 align="center">I am a software developer, data science practitioner, as well as a lifelong learner, <br>thrives on extracting valuable insights from data and creating fun applications to solve problems.</h3>
-<img align="right" alt="side gif" width=300  src="https://camo.githubusercontent.com/296084ab5cccc2509c01e4981f33da7668a10fa5d0004f1b71f016124439a375/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f35654c4472456152474865677832466546322f67697068792e676966">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevensong-sts&label=Profile%20views&color=0e75b6&style=flat" alt="stevensong-sts" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:58a6ff&height=200&section=header&text=Steven%20Song&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Data%20Science%20Practitioner%20%E2%80%A2%20Explorer&descAlignY=64&descSize=18&descColor=b0c8e8" />
 
-- 🔭 I’m currently tweaking **foundation models** to build apps I want 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Tweaking+foundation+models+%F0%9F%A7%A0;Building+AI+Driven+Applications+%F0%9F%A4%96;Full-Stack+Dev+%7C+Data+Enthusiast;Let%27s+solve+problems+together!)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Prompt Engineering, Fine-tuning, and Agent 🤖**
-
-- 👨‍💻 All of my projects are available at [https://github.com/StevenSong-sTs](https://github.com/StevenSong-sTs)
-
-- 💬 Ask me about **Full-Stack Development, Data Analysis, Agent**
-
-- 📫 How to reach me **stevensong0x7cc@gmail.com**
-
-- ⚡ Fun fact **Avatar is my cat**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/steven-song/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/steven-song/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/songsteven1204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/songsteven1204/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/songxincheng124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/songxincheng124/" height="30" width="40" /></a>
-<a href="https://stevensong.space/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://stevensong.space/" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=stevensong-sts&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/StevenSong-sTs?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/StevenSong-sTs?label=Followers&style=flat-square&color=0e75b6&logo=github">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=stevensong-sts&show_icons=true&locale=en&rank_icon=github&theme=synthwave" alt="stevensong-sts" width="400" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensong-sts&theme=blue-green" alt="stevensong-sts" width="425" />
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g2OHA1ZWlhZDc1NjBnZDdrbm9iNWMzc2VkaXp1Y3o1M2Q2YWh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
+
+I am a **software developer** and **data science practitioner** who thrives on extracting valuable insights from data and creating fun applications to solve problems.
+
+- 🔭 Currently tweaking **foundation models** to help business solve their problems
+- 🌱 Learning **All the new fun tools**
+- 👨‍💻 All projects at [github.com/StevenSong-sTs](https://github.com/StevenSong-sTs)
+- 💬 Ask me about **AI Driven Development**
+- 📫 Reach me at **stevensong0x7cc@gmail.com**
+- ⚡ Fun fact: **Avatar is my cat 🐱**
+
+<br clear="right"/>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/steven-song/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/songsteven1204/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/songxincheng124/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://stevensong.space/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+<!-- 
+Project Section Template
+
+## � Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Project Name One</h3>
+      <p>A short description of what this project does, the problem it solves, and who it's for. Keep it to 2–3 sentences max.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      </p>
+      <a href="https://github.com/StevenSong-sTs/YOUR_REPO_1">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <a href="https://your-demo-link.com">
+        <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=safari&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Project Name Two</h3>
+      <p>A short description of what this project does, the problem it solves, and who it's for. Keep it to 2–3 sentences max.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <a href="https://github.com/StevenSong-sTs/YOUR_REPO_2">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+      <a href="https://your-demo-link.com">
+        <img src="https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=safari&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Project Name Three</h3>
+      <p>A short description of what this project does, the problem it solves, and who it's for. Keep it to 2–3 sentences max.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <a href="https://github.com/StevenSong-sTs/YOUR_REPO_3">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Project Name Four</h3>
+      <p>A short description of what this project does, the problem it solves, and who it's for. Keep it to 2–3 sentences max.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://github.com/StevenSong-sTs/YOUR_REPO_4">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+-->
+
+## �📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevensong-sts&show_icons=true&locale=en&rank_icon=github&theme=synthwave&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensong-sts&theme=blue-green&hide_border=true" height="170" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevensong-sts&layout=compact&theme=synthwave&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0e75b6&height=120&section=footer&animation=fadeIn" />
+</div>
