@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g2OHA1ZWlhZDc1NjBnZDdrbm9iNWMzc2VkaXp1Y3o1M2Q2YWh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g2OHA1ZWlhZDc1NjBnZDdrbm9iNWMzc2VkaXp1Y3o1M2Q2YWh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.webp" />
 
 I am a **software developer** and **data science practitioner** who thrives on extracting valuable insights from data and creating fun applications to solve problems.
 
