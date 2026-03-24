@@ -123,7 +123,7 @@ Project Section Template
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensong-sts&theme=blue-green&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevensong-sts&layout=compact&theme=synthwave&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevensong-sts&layout=compact&theme=synthwave&hide_border=true&langs_count=8&exclude_repo=Property-Value-Forecast,Stock-Sentiment-Analyzer,US_housing_analysis" height="160" alt="Top Languages" />
 </div>
 
 ---
